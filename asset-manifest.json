@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Css-style-generator/static/css/main.b41db801.css",
-    "main.js": "/Css-style-generator/static/js/main.8b8a4ea8.js",
+    "main.js": "/Css-style-generator/static/js/main.0ebac378.js",
     "index.html": "/Css-style-generator/index.html",
     "main.b41db801.css.map": "/Css-style-generator/static/css/main.b41db801.css.map",
-    "main.8b8a4ea8.js.map": "/Css-style-generator/static/js/main.8b8a4ea8.js.map"
+    "main.0ebac378.js.map": "/Css-style-generator/static/js/main.0ebac378.js.map"
   },
   "entrypoints": [
     "static/css/main.b41db801.css",
-    "static/js/main.8b8a4ea8.js"
+    "static/js/main.0ebac378.js"
   ]
 }
