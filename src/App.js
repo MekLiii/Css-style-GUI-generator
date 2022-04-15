@@ -7,7 +7,7 @@ import { AnimatePresence } from "framer-motion";
 
 function App() {
   const [isOpenNav, setIsOpen] = useState(false);
-  console.log(isOpenNav);
+  
   return (
     <Main isOpen={isOpenNav} setIsOpen={() => setIsOpen(false)}>
       <AnimatePresence>
