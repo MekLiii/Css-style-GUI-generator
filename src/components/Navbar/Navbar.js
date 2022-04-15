@@ -10,7 +10,7 @@ function Navbar({ isOpen ,setIsOpen}) {
         <Burger isOpen={isOpen} />
       </BurgerBox>
       <NavELements>
-        <List>
+        <List> 
           <ListItem>
             <StyledLink to="/" onClick={setIsOpen}>Home</StyledLink>
           </ListItem>
