@@ -13,7 +13,7 @@ function App() {
       <AnimatePresence>
         <Routes>
           <Route
-            path="/"
+            path="/Css-style-generator/"
             element={
               <Home
                 setIsOpen={() => setIsOpen(!isOpenNav)}
@@ -21,9 +21,8 @@ function App() {
               />
             }
           />
-          <Route path="about" element={<h1>About</h1>} />
           <Route path="*" element={<h1>Not found</h1>} />
-          <Route path="/boxShadow" element={<BoxShadow />} />
+          <Route path="/Css-style-generator/boxShadow" element={<BoxShadow />} />
         </Routes>
       </AnimatePresence>
     </Main>
