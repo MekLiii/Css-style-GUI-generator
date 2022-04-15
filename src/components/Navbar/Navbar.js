@@ -12,10 +12,10 @@ function Navbar({ isOpen ,setIsOpen}) {
       <NavELements>
         <List> 
           <ListItem>
-            <StyledLink to="/" onClick={setIsOpen}>Home</StyledLink>
+            <StyledLink to="/Css-style-generator/" onClick={setIsOpen}>Home</StyledLink>
           </ListItem>
           <ListItem>
-            <StyledLink to="/boxShadow" onClick={setIsOpen}>Box shadow generator</StyledLink>
+            <StyledLink to="/Css-style-generator/boxShadow" onClick={setIsOpen}>Box shadow generator</StyledLink>
           </ListItem>
         </List>
       </NavELements>
