@@ -8,7 +8,8 @@ function Main({ children,isOpen ,setIsOpen }) {
     <MainContainer>
       <Navbar isOpen={isOpen} setIsOpen={setIsOpen}/>
       <ChildContainer>{children}</ChildContainer>
-    </MainContainer>
+      
+    </MainContainer> 
   );
 }
 

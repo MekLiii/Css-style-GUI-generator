@@ -19,7 +19,7 @@ function App() {
                 setIsOpen={() => setIsOpen(!isOpenNav)}
                 isOpen={isOpenNav}
               />
-            }
+            } 
           />
           <Route path="*" element={<h1>Not found</h1>} />
           <Route path="/Css-style-generator/boxShadow" element={<BoxShadow />} />
