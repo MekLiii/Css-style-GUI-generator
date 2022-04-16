@@ -1,5 +1,5 @@
 Make css styles in GUI
-**http://localhost:3000/Css-style-generator/**
+**https://mekliii.github.io/Css-style-generator/**
 
 Styles you can make:
 - box shadow
